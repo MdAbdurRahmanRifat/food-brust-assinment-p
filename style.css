@@ -1,0 +1,20 @@
+/* nav bar txt stying   */
+.menu {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+/* slider btn  */
+.btn-s {
+  padding: 9px 18px;
+  gap: 10px;
+  border-radius: 4px;
+  background: #f85559;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+/* slider writing part  */
