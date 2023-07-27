@@ -18,3 +18,16 @@
 }
 
 /* slider writing part  */
+
+/* why choose us section style st  */
+.ellipes {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1212121a;
+  border-radius: 50%;
+}
+
+/* why choose us section style end  */
